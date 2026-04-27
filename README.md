@@ -1,4 +1,4 @@
-# Project title - OS Project Custom Kernel
+# Project title - OS Project Custom Shell
 
 
 ## Project overview
