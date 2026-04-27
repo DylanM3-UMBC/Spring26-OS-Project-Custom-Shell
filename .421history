@@ -1,0 +1,5 @@
+ls hey
+pwd
+ls
+echo "hey"
+clear
