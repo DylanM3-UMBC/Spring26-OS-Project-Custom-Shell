@@ -31,7 +31,7 @@
 2. The exec function replaces the current process with a new program thus needed the Fork function to still have the shell program running
 
 
-# Your role or contribution
+# My role and contributions
 - As a student in operating systems class I coded a basic linux shell from scratch and have implemented basic linux commands for the custom shell to execute
 
 
